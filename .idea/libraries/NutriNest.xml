@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="NutriNest">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/cadastro2.zip!/" />
+      <root url="jar://$PROJECT_DIR$/nutriNest.zip!/" />
+      <root url="jar://$PROJECT_DIR$/cadastro1.zip!/" />
+      <root url="jar://$PROJECT_DIR$/pergunta.zip!/" />
+      <root url="jar://$PROJECT_DIR$/formulario.zip!/" />
+      <root url="jar://$PROJECT_DIR$/login.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
